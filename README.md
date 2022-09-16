@@ -2,6 +2,9 @@
 
 ![](logo.png)
 
+### Team TrojanPonies:
+<i>by [KazakosVas](https://github.com/KazakosVas), [mansstiv](https://github.com/mansstiv) </i>
+
 Ερωτήσεις:
 
 1. Πού βρίσκεται ο Γιώργος;
@@ -10,8 +13,7 @@
 1. Ποια είναι τα results του "Plan Y";
 1. Ποιο είναι το code του "Plan Z";
 
-### Team TrojanPonies:
-<i>by [KazakosVas](https://github.com/KazakosVas), [mansstiv](https://github.com/mansstiv) </i>
+
 
 # Λύση
 
